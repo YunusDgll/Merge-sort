@@ -19,6 +19,7 @@ Big-O gösterimini yazınız.
 
 7.Adım key dizi[7]= [8,11,12,16,21,22]
 
+
 Big-O gösterimini yazınız.
 
 Çözüm:2
